@@ -457,7 +457,8 @@ h3,
         margin-bottom: 23px
     }
     .header_area .navbar {
-        background: #412fb3
+        /* background: #412fb3 */
+        background : #232323;
     }
     .navbar-toggler[aria-expanded="false"] span:nth-child(2) {
         opacity: 1
@@ -911,7 +912,7 @@ h3,
 .card-feature__icon i,
 .card-feature__icon span {
     font-size: 30px;
-    color: #21146a
+    /* color: #21146a */
 }
 
 .card-feature__title {
@@ -1044,7 +1045,8 @@ h3,
 }
 
 .card-pricing:hover .button {
-    background: #21146a;
+    /* background: #21146a; */
+    background : #232323;
     color: #fff
 }
 
@@ -1178,7 +1180,8 @@ h3,
 }
 
 .testimonial .owl-dots .owl-dot.active span {
-    background: #21146a
+    /* background: #21146a; */
+    background : #232323;
 }
 
 .our_major_cause .owl-item {
@@ -2637,7 +2640,7 @@ h3,
 .button:hover {
     background-color: transparent;
     border-color: #21146a;
-    color: #000022
+    color: #000022;
 }
 
 .button-header {
@@ -2655,7 +2658,7 @@ h3,
 }
 
 .button-light:hover {
-    background-color: #21146a;
+    background-color: #232323;
     color: #fff
 }
 
@@ -2671,7 +2674,7 @@ h3,
 }
 
 .button-blog:hover {
-    background-color: #21146a;
+    background-color: #232323;
     color: #fff
 }
 
